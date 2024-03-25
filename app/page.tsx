@@ -1,7 +1,9 @@
+import UI from "./ui";
+
 export default function Home() {
   return (
     <main className="">
-      <div className="">Dropbox Project!</div>
+      <UI />
     </main>
   );
 }
